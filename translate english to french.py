@@ -34,4 +34,4 @@ for i in lout:
     fout.write("\n")
 
 end=time.time()
-print("running rime",end-start)
+print("running time",end-start)
