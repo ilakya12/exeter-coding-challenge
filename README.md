@@ -1,1 +1,0 @@
-# exeter-coding-challenge
